@@ -1,4 +1,4 @@
-# Hi there, I'm Ron Itzhaki 👋
+# Hi there, I'm Ron 👋
 
 ## 💫 About Me
 I'm a passionate developer who loves to create and innovate. Welcome to my GitHub profile!
