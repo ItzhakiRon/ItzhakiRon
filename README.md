@@ -38,11 +38,11 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://discord.com/users/obamabinladen5290" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discordapp.com/users/obamabinladen5290" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: OBAMA BIN LADEN"/>
   </a>
   <a href="mailto:izhakiron55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: izhakiron55@gmail.com"/>
   </a>
 </p>
 
