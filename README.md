@@ -31,7 +31,7 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzhakiRon&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-## 🌐 Connect With Me
+## 🌐 Socials
 <p align="left">
   <a href="https://discordapp.com/users/obamabinladen5290" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
