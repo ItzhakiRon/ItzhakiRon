@@ -48,10 +48,6 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItzhakiRon&color=blueviolet" alt="Profile views"/>
-</p>
-
 <!--
 Feel free to customize this template to better represent your personal brand and interests!
 You can add or remove sections as needed.
