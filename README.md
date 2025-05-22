@@ -8,7 +8,7 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about my coding journey
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -31,6 +31,9 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzhakiRon&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzhakiRon&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ## 🌐 Connect With Me
