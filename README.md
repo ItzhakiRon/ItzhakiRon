@@ -33,34 +33,6 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzhakiRon&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/ItzhakiRon/project-1" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+1" width="100%" alt="Project 1"/>
-        </a>
-        <p align="center">
-          Description of your amazing project and what technologies you used.
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/ItzhakiRon/project-2" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-        <p align="center">
-          Another cool project with its description and tech stack.
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/" target="_blank">
