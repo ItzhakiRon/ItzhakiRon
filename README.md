@@ -28,7 +28,9 @@ I'm a passionate developer who loves to create and innovate. Welcome to my GitHu
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzhakiRon&theme=radical" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzhakiRon&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🌐 Socials
 <p align="left">
